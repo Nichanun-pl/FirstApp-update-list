@@ -31,4 +31,6 @@
     \n\nNakhon Ratchasima 30000</string>
     <string name="facebook">นิช นัน</string>
     <string name="line">nchn43</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
